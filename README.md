@@ -20,7 +20,7 @@
   <a href="mailto:maulanahsn.onthem5@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
 </div>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7AA&width=435&lines=Hi+There+I'm+Maulana+Hasan+From+Indonesia;I'm+IT+Support%2C+Programer%2C+Developer%2C+Gamer;Passionate+For+Programming%2C+Data+analyst%2C+Gamer;I'm+Expert+for+Developer+WEB" alt="Typing SVG" style="max-width: 100%; max-height: 100%;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&width=1000&height=100&lines=Hi+There+I'm+Maulana+Hasan;From+INDONESIA+ID;I'm++IT+Support%2C+Developer%2C+Gamar;Passionate+For+Programming%2C+Play+Game%2C+Data+Analyst;I'm+Expert++For+Developer+WEB+%26+TroubleShooting" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on **PT BACH MULTI GLOBAL**
